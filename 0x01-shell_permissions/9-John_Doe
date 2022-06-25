@@ -1,0 +1,3 @@
+#!/bin/bash
+
+chmo 753 hello
