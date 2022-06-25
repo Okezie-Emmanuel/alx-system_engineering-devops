@@ -1,5 +1,2 @@
 #!/bin/bash
-
-chmo 753 hello
-#!/bin/bash
-chmo 753 hello
+chmod 753 hello
