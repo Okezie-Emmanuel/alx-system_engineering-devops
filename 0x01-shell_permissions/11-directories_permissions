@@ -1,21 +1,2 @@
-
-cat<<EOT>> 11-directories_permissions
-
-
-cat<<EOT>> 11-direcories_permissions
-#!/bin/bash
-
-chmod -R+x.
-
-cat<<EOT>> 11-directories_permissions
-
-cat<<EOT>> 11-directories_permissions
-
-
-cat<<EOT>> 11-direcories_permissions
-#!/bin/bash
-
-
-chmod -R+x.
 #!/bin/bash
 chmod -R+x.
