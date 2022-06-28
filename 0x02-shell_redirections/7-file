@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cat<<EOT>> 7-file
-#!/bin/bash
-echo "Best School" > "\*\\'\"Best School\"\'\\*$\?\*\*\*\*\*:)"
