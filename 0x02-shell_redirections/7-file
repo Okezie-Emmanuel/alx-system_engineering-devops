@@ -1,4 +1,5 @@
-#!/bin/bas
-echo "Best school" > \\\\"'\"Best school\"\'"\\\$\\?\\\\\\\\*\:\)
 #!/bin/bash
-echo "Best school" > \\\\"'\"Best school\"\'"\\\$\\?\\\\\\\\*\:\)
+
+cat<<EOT>> 7-file
+#!/bin/bash
+echo "Best School" > "\*\\'\"Best School\"\'\\*$\?\*\*\*\*\*:)"
