@@ -1,6 +1,2 @@
-#!/bin/bashh
-cat<<EOT>> 6-create_local_variable
-#!/bin/bashh
-clear
 #!/bin/bash
 BEST="School"
